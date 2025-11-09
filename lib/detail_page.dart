@@ -5,7 +5,6 @@ class DetailPage extends StatelessWidget {
   final String itemImage;
   final String itemDescription;
 
-  // pastikan konstruktor memakai named parameters yang sama dan memanggil super(key: key)
   const DetailPage({
     Key? key,
     required this.itemTitle,
