@@ -34,7 +34,7 @@ class HomeScreen extends StatelessWidget {
       },
       {
         'title': 'Infinix Note 40',
-        'image': 'https://fdn2.gsmarena.com/vv/pics/infinix/infinix-note-40-pro-plus-5g-1.jpg',
+        'image': 'assets/phone.png',
         'description': 'Infinix Note 40 hadir dengan pengisian super cepat, layar AMOLED 120Hz, dan desain elegan modern.'
       },
       {
